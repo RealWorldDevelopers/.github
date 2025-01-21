@@ -1,12 +1,16 @@
-## Hi there 👋
+## Hi there 👋, Welcome to my Github Organization page!
+
+Checkout my Personal GitHub repositories at [Jim Stevens (rwdevlead)](https://github.com/rwdevlead)
+
+   <!--
+![](https://komarev.com/ghpvc/?username=rwdevlead&color=brightgreen)
+-->
 
 <!--
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=rwdevlead&show_icons=true&locale=en" alt="rwdevlead" />
+  -->
 
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+  <!--
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rwdevlead&layout=compact&hide_border=true&&langs_count=10&show_icons=true&theme=transparent" />
 -->
+
